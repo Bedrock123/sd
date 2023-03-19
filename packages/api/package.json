@@ -1,0 +1,14 @@
+{
+  "name": "@next-expo-trpc/api",
+  "version": "1.0.0",
+  "author": "tomheaton",
+  "license": "MIT",
+  "private": true,
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "dependencies": {
+    "@trpc/server": "^10.4.0",
+    "superjson": "^1.10.0",
+    "zod": "^3.19.1"
+  }
+}
